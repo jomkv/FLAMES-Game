@@ -1,6 +1,3 @@
-#ifndef main_HPP
-#define main_HPP
-
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -12,5 +9,3 @@ string findOrigLetters(string x, string y);
 string getAllOrigLetters(string n1, string n2);
 int keepInRange(int num);
 bool detectError(string n1);
-
-#endif

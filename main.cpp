@@ -1,5 +1,5 @@
 
-#include "functions.hpp"
+#include "functions.cpp"
 
 int main() {
     string name1, name2;
